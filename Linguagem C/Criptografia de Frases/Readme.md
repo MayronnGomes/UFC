@@ -35,7 +35,7 @@ Este projeto consiste em um programa em C que criptografa uma frase invertendo a
 
 1. Compile o código com um compilador C. Por exemplo, usando `gcc`:
    ```sh
-   gcc -o criptografia criptografia.c
+   gcc -o criptografia Criptografia_de_frase.c
    ```
 
 2. Execute o programa:

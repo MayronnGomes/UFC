@@ -46,7 +46,7 @@ Este projeto consiste em um programa em C que implementa uma árvore binária de
 
 1. Compile o código com um compilador C. Por exemplo, usando `gcc`:
    ```sh
-   gcc -o arvore arvore.c
+   gcc -o arvore ABB.c
    ```
 
 2. Execute o programa:
